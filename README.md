@@ -4,7 +4,7 @@ This repository is about all the projects that I need to create for completing t
 
 * Course Link  - https://www.datacamp.com/tracks/data-scientist-with-python
 
-### Projects to do
+### Projects to add
 - [x] Analyzing Tv Data
 - [x] The Android App Market on Google Play
 - [x] The Github History of Scala Language
